@@ -44,9 +44,9 @@
     <link href="http://yoursite.com/2018/10/19/python%E7%9A%84%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
     <id>http://yoursite.com/2018/10/19/python的环境配置/</id>
     <published>2018-10-19T03:21:25.000Z</published>
-    <updated>2018-10-19T15:48:20.250Z</updated>
+    <updated>2018-10-19T16:06:01.827Z</updated>
     
-    <content type="html"><![CDATA[<p>Python 是一门有条理的和强大的面向对象的程序设计语言，类似于Perl, Ruby, Scheme, Java。</p><blockquote><p>1.首先我们打开<a href="https://www.python.org" target="_blank" rel="noopener">python官网:</a></p></blockquote><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/pythonh7.jpg" alt="python"></p>]]></content>
+    <content type="html"><![CDATA[<p>Python 是一门有条理的和强大的面向对象的程序设计语言，类似于Perl, Ruby, Scheme, Java。</p><blockquote><p>1.首先我们打开<a href="https://www.python.org/" target="_blank" rel="noopener">python官网:</a></p></blockquote><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/pythonh1.jpg" alt="python"></p><p>看到箭头指到的地方，点击下载，这是3.7的版本，也有<a href="https://www.python.org/downloads/windows/" target="_blank" rel="noopener">3.6的版本和其他版本</a>，这是windows上的，如有需要其他mac 和linux 版本以及其他版本，可以上<a href="https://www.python.org" target="_blank" rel="noopener">python官网</a>下载，这里就不一一说了。</p><blockquote><p>2.</p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -54,7 +54,7 @@
       
         &lt;p&gt;Python 是一门有条理的和强大的面向对象的程序设计语言，类似于Perl, Ruby, Scheme, Java。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;1.首先我们打开&lt;a href=&quot;https://www.python.org&quot; target=&quot;_blank&quot; r
+&lt;p&gt;1.首先我们打开&lt;a href=&quot;https://www.python.org/&quot; target=&quot;_blank&quot; 
       
     
     </summary>
