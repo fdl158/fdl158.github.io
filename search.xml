@@ -3,6 +3,23 @@
   
     
     <entry>
+      <title>如何上传文件到github中</title>
+      <link href="/2018/10/20/%E5%A6%82%E4%BD%95%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E5%88%B0github%E4%B8%AD/"/>
+      <url>/2018/10/20/%E5%A6%82%E4%BD%95%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E5%88%B0github%E4%B8%AD/</url>
+      
+        <content type="html"><![CDATA[<p>github是什么：是一个开源的分布式版本控制系统，可以对项目进行版本管理。 早期是linux之父用来管理linux系统源代码的（linux是和windows一样操作系统 开源免费的操作系统）。</p><blockquote><p><strong><em>1、先在Github上创建一个账号:</em></strong></p></blockquote><p><a href="https://github.com/" target="_blank" rel="noopener">官网首页：</a></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub1.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub2.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub3.jpg" alt=""></p><blockquote><p><strong><em>2、验证你的电子邮箱:</em></strong></p></blockquote><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub4.jpg" alt=""></p><blockquote><p><strong><em>3、接下来创建一个储存库:</em></strong></p></blockquote><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub5.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub6.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub7.jpg" alt=""></p><blockquote><p><strong><em>4、上传文件：</em></strong></p></blockquote><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub8.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub9.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub10.jpg" alt=""></p><blockquote><p><strong><em>5、把上传的网页文件夹变成网页：</em></strong></p></blockquote><blockquote><p><strong><em>6、一般默认情况下服务器会读取根文件下的index文件作为网站首页； 所以网站文件根目录下的首页文件名改为index.html。</em></strong></p></blockquote><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub11.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub12.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub13.jpg" alt=""></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/github%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/GitHub14.jpg" alt=""></p><p>上面就完成了，由于服务器不在国内，所有有时慢，请稍等一下就欧克了！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> github文件上传 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>Atom的安装</title>
       <link href="/2018/10/20/Atom%E7%9A%84%E5%AE%89%E8%A3%85/"/>
       <url>/2018/10/20/Atom%E7%9A%84%E5%AE%89%E8%A3%85/</url>
