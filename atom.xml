@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-20T05:43:59.526Z</updated>
+  <updated>2018-10-20T13:10:41.375Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Atom的安装</title>
+    <link href="http://yoursite.com/2018/10/20/Atom%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+    <id>http://yoursite.com/2018/10/20/Atom的安装/</id>
+    <published>2018-10-20T12:20:44.000Z</published>
+    <updated>2018-10-20T13:10:41.375Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Atom的安装及使用方法-："><a href="#Atom的安装及使用方法-：" class="headerlink" title="Atom的安装及使用方法 ："></a>Atom的安装及使用方法 ：</h1><p>学校开始用的都是hublider，我使用一段时间后，觉得不好用，我开始想安装webstrom编辑器，后来我发现atom这款编辑器，挺好用的，就选择这款，这个看个人自愿，毕竟每个人都不同，好了，进入主题！</p><blockquote><p>1.<strong><em>官网首页：</em></strong><a href="https://atom.io/" target="_blank" rel="noopener">点击打开链接</a></p></blockquote><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/atom%E7%9A%84%E5%AE%89%E8%A3%85%E5%9B%BE%E7%89%87/atom4.jpg" alt=""></p><p>网页会自动判断你的操作系统, 给出其对应的下载按钮</p><p>比如我的系统是windows, 就可以点击Download 按钮来下载系统对应的安装包</p><p>如果要下载其他系统的安装包, 点击Other platforms链接即可</p><p>(1).<strong>MAC系统</strong></p><p>解压下载的zip安装包后, 将解压出的Atom应用拖到应用目录下 或者通过Homebrew Cask安装(brew cask install atom)。</p><p>(2).<strong>Windows 系统：</strong></p><p>运行安装包安装。</p><p>(3).<strong>Linux系统：</strong></p><p>如果是基于Debian的发行版, 执行命令:(sudo dpkg -i atom-amd64.deb。)</p><p>如果是RedHat, 则执行:(rpm -i atom.x86_64.rpm。)</p><p><em>安装完成后运行Atom, 将会看到这样的界面, 说明我们已经安装成功了.</em></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/atom%E7%9A%84%E5%AE%89%E8%A3%85%E5%9B%BE%E7%89%87/atom5.jpg" alt=""></p><blockquote><p>2.<strong><em>基本使用：</em></strong></p></blockquote><p>(1).<strong>命令面板：</strong></p><p>Atom的很多功能学习和参考了其他优秀的编辑器, 命令面板就是其一. 当你第一次看到它时, 还以为在用Sublime呢 命令面板是Atom中最常用的功能之一, 当你在编辑器中使用快捷键Ctrl+Shift+P时, 就会看到它</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/atom%E7%9A%84%E5%AE%89%E8%A3%85%E5%9B%BE%E7%89%87/atom6.jpg" alt=""></p><p>在控制面板中可以输入Atom中和插件中定义的所有命令, 并且支持模糊搜索 比如说当你输入cboo时, 所有包含有这4个字符的命令就都列出来了 在列出的命令后还显示了此命令对应的快捷键(如果有的话)。</p><p>(2).<strong>设置窗口：</strong></p><p>自带可视化的设置界面是Atom使用很方便的原因之一, 而不像传统的编辑器那样需要手动修改配置文件。</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/atom%E7%9A%84%E5%AE%89%E8%A3%85%E5%9B%BE%E7%89%87/atom7.jpg" alt=""></p><p><strong>你可以使用下面三种方法来打开设置窗口 :</strong></p><ul><li>主菜单Edit-&gt;Preferences.</li><li>在命令面板中输入命令Settings View:Open. 因为命令窗口支持模糊查询, 因此只需要输入svo, 就可以了.</li><li>使用快捷键Ctrl+,(逗号).</li></ul><p>在设置窗口中可以设置和管理各种编辑器行为, 键盘快捷键, 插件, 主题等内容</p><p><strong>设置窗口界面主题和代码高亮 :</strong></p><p>Atom自带了4种窗口主题和8种代码高亮方式 可以通过设置窗口中的Themes页面来配置和修改 另外还有n多n多第三方制作的主题可以安装,安装方法在后面会讲到.</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/atom%E7%9A%84%E5%AE%89%E8%A3%85%E5%9B%BE%E7%89%87/atom8.jpg" alt=""></p><blockquote><p>3.<strong><em>文件操作:</em></strong></p></blockquote><p><strong>(1)打开文件:</strong></p><p>你可以通过主菜单File-&gt;Open File…或者快捷键Ctrl+O来打开文件选择窗口 ，</p><p><strong>（2）保存文件:</strong></p><ul><li>主菜单 File-&gt;Save</li></ul><ul><li>快捷键 Ctrl+S</li></ul><ul><li>另存为: Ctrl+Shift+S</li></ul><ul><li>保存所有文件: File-&gt;Save All</li></ul><p><strong>（3）打开文件夹:</strong></p><p>打开文件夹是一个很实用的功能, 可以像IDE一样打开一个项目的根目录 可以通过在主菜单选择File-&gt;Add Project Folder…来打开或者添加一个目录,也可以使用快捷键Ctrl+Alt+O. 在打开一个文件夹以后该文件夹下的所有子目录和文件就会如下图一样以目录树的方式显示在主窗口左边。</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/atom%E7%9A%84%E5%AE%89%E8%A3%85%E5%9B%BE%E7%89%87/atom9.jpg" alt=""></p><p>你可以通过在目录树栏中右键菜单或选中文件时使用快捷键a,m,delete来对文件进行新建,重命名,删除等操作 如果要切换目录树栏的显示与隐藏可以使用快捷键Ctrl+\或输入命令Tree View:Toggle 目录树中右键菜单中还能实现文件的复制粘贴等功能。</p><p><strong>（4）查找文件:</strong></p><p>当打开一个或多个目录时,你可以:</p><ul><li>通过Ctrl+T或Ctrl+P来搜索目录中的文件。</li><li>通过Ctrl+B来搜索一个当前打开的文件 。</li></ul><ul><li>通过Ctrl+Shift+B来搜索一个新建的或更改过的文件</li></ul><p>当然这些功能也都支持模糊查询 。</p><p>如果你需要在搜索时过滤掉一些特定的文件(比如.pyc文件)或目录(比如.Git), 可以配置core.ignoredNames和fuzzy-finder.ignoredNames。</p><p>也可以通过配置core.excludeVcsIgnoredPaths来过滤掉在.gitignore中配置的文件. 具体的配置方法以后会慢慢学习。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Atom的安装及使用方法-：&quot;&gt;&lt;a href=&quot;#Atom的安装及使用方法-：&quot; class=&quot;headerlink&quot; title=&quot;Atom的安装及使用方法 ：&quot;&gt;&lt;/a&gt;Atom的安装及使用方法 ：&lt;/h1&gt;&lt;p&gt;学校开始用的都是hublider，我使用一段
+      
+    
+    </summary>
+    
+    
+      <category term="Atom的安装" scheme="http://yoursite.com/tags/Atom%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+    
+  </entry>
+  
+  <entry>
     <title>markdown的基础语法</title>
     <link href="http://yoursite.com/2018/10/19/markdown%E7%9A%84%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/"/>
     <id>http://yoursite.com/2018/10/19/markdown的基础语法/</id>
     <published>2018-10-19T15:19:17.000Z</published>
-    <updated>2018-10-20T05:43:59.526Z</updated>
+    <updated>2018-10-20T12:14:35.110Z</updated>
     
     <content type="html"><![CDATA[<p>今天看了markdown的基础语法，趁热打铁给大家介绍一下mrakdown的基础语法。<br>现在的前端基本上都用上了前端构建工具，那就难免要写一些readme等等的说明性文件，但是这样的文件一般都是.md的文件，编写的语法自然跟其他格式的文件有所区别，置于为什么要用这种格式的文件，不要问我，我知道，大家都这么用，跟着用就对了，如果有大神知道的，不妨告知小弟，本文也是我学习写markdown文件的一个笔记吧，仅供参考！</p>]]></content>
     
