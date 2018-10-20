@@ -1090,7 +1090,7 @@ pre .javascript .function {
   bottom: 19px;
 }
 .header {
-  background: transparent;
+  background: url("https://deling-1255359399.cos.ap-chengdu.myqcloud.com/%E4%B8%BB%E9%A2%98%E5%A4%B4%E5%83%8F/330808-1F11602350941.jpg");
 }
 .header-inner {
   position: relative;
@@ -2054,7 +2054,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8fffff;
+  background: #ba47ff;
 }
 .links-of-blogroll {
   font-size: 13px;
