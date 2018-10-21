@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-21T12:06:33.612Z</updated>
+  <updated>2018-10-21T13:14:55.335Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/10/20/python%E7%88%AC%E5%8F%96%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF/"/>
     <id>http://yoursite.com/2018/10/20/python爬取简历模板/</id>
     <published>2018-10-20T15:20:15.000Z</published>
-    <updated>2018-10-21T12:06:33.612Z</updated>
+    <updated>2018-10-21T13:14:55.335Z</updated>
     
     <content type="html"><![CDATA[<p><strong><em> 前言：</em></strong><br>自从学了python爬虫后就想去找一份爬虫的工作，但是简历如何写作是个问题，就想到了何不用爬虫去爬取别人的简历模板一看，找了一些网站最后看最准了<a href="http://sc.chinaz.com/" target="_blank" rel="noopener">站长之家</a>。</p><hr><p><div align="center">python爬取简历模板</div></p><p><strong> 一、分析网页结构</strong></p><p>  进入到站长之家，我们可以看到免费的offer一共有426页之多，把这些全部爬下来也足够使用了吧，</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E7%AE%80%E5%8E%86%E5%9B%BE%E7%89%87/pythonjianli.jpg" alt=""></p><p>我们右键检查，选中一份简历，明显可以看到进入这份简历的链接，然后点击这个链接进入到这份简历的页面里：</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E7%AE%80%E5%8E%86%E5%9B%BE%E7%89%87/pythonjianli2.png" alt=""></p><p>往下翻可以看到下面有很多下载的地址，什么福建，山东，江苏，广东，厦门等，随便点击一个都可以下载的，还是右键检查一下，选中一个下载的地址，也可以看到下载的链接就在这里面。</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E7%AE%80%E5%8E%86%E5%9B%BE%E7%89%87/pythonjianli3.png" alt=""></p><p>好了，我们接下来的工作就好办了，只要把这两个链接用正则取到，在请求不就好了吗，就这么简单。</p><p><strong> 二、编写python代码 </strong></p><p>  我们先请求站长之家的链接获取到网页源代码，在用正则提取出第一个链接就好了。</p><p>  <img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E7%AE%80%E5%8E%86%E5%9B%BE%E7%89%87/pythonjianli4.png" alt=""></p><p>  在请求这个链接，提取出下载链接，在请求下载链接就可以下载到本地了。</p><p>  <img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E7%AE%80%E5%8E%86%E5%9B%BE%E7%89%87/pythonjianli5.png" alt=""></p><p>  好了，小伙伴是不是觉得很简单，感觉python爬虫就是这样，只要找到了链接，在用正则提取就行了，思路要清晰。<strong>(记得要安装requests！)</strong></p><p>如有需要源码的可以联系我额！</p>]]></content>
     
