@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-21T13:14:55.335Z</updated>
+  <updated>2018-10-26T14:50:18.647Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python函数和工具使用技巧</title>
+    <link href="http://yoursite.com/2018/10/26/python%E5%87%BD%E6%95%B0%E5%92%8C%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>http://yoursite.com/2018/10/26/python函数和工具使用技巧/</id>
+    <published>2018-10-26T13:55:07.000Z</published>
+    <updated>2018-10-26T14:50:18.647Z</updated>
+    
+    <content type="html"><![CDATA[<p>Python内置了很多有用的函数，我们可以直接调用。</p><p>python函数的定义：定义一个函数要用def语句，然后加函数名，加括号，然后再加冒号(:)。</p><p><strong>例如：</strong></p><p>  def 函数名（）:<br>&nbsp;&nbsp;  print()<br> <strong>注意：</strong> 由于python缩进，前面要加一个tab键，默认为一个tab为4个空格</p><p>下面我自己写了一个1.<strong>单行和多行分隔线：</strong></p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E5%87%BD%E6%95%B0/pythonhanshu1.png" alt=""><br>2.python中可以为函数中添加注释，用三个引号。</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E5%87%BD%E6%95%B0/pythonhanshu2.png" alt=""></p><p>3.这里pycharm的有个技巧，给函数的添加详细的注释：</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E5%87%BD%E6%95%B0/pythonhanshu4.jpg" alt=""></p><p>看到上图，点击函数名，等1秒，然后出现一个小灯泡，点击小灯炮，就能出现上图的add parameters to docstring,点击它，就会出现给函数详细的注释：</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E5%87%BD%E6%95%B0/pythonhanshu5.png" alt=""></p><p>  :param char:<br>  :param times:<br>  在这里面你可以添加详细的注释。</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E5%87%BD%E6%95%B0/pythonhanshu6.png" alt=""></p><p>最后你把鼠标放在函数名的地方，在按下ctrl + Q 快捷键，就会出现详细注释：</p><p><img src="https://deling-1255359399.cos.ap-chengdu.myqcloud.com/python%E5%87%BD%E6%95%B0/pythonhanshu7.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Python内置了很多有用的函数，我们可以直接调用。&lt;/p&gt;
+&lt;p&gt;python函数的定义：定义一个函数要用def语句，然后加函数名，加括号，然后再加冒号(:)。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例如：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  def 函数名（）:&lt;br&gt;&amp;nbs
+      
+    
+    </summary>
+    
+    
+      <category term="python后端" scheme="http://yoursite.com/tags/python%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>python爬取简历模板</title>
